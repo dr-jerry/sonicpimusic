@@ -11,5 +11,8 @@ But I'm afraid my family will start singing nervertheless. If you also want to e
 	
 And press run.
 
-Checkout the nice tutorial (English) and more information on Google and a very nice [Dutch tutorial](https://coderdojo-leiden.github.io/)
-My 7yr old is having lots of fun with programming music!
+Be aware that I'm by no means a musician and I may have missed a few flats or sharps. Don't complain, contribute!
+
+Checkout the nice tutorial in Sonic PI itself(English) and more information on Google and a very nice [Dutch tutorial](https://coderdojo-leiden.github.io/)
+
+I hope you have at least as much fun as we have with programming music on Sonic PI!
